@@ -1,0 +1,1880 @@
+Rule #1
+Rule:  Mapping, Social, Video, Reference  Photos
+ - Confidence: 0.933
+ - Support: 0.002
+ - LIft: 7.892
+
+Rule #2
+Rule:  Social, Video, Bookmarks  Photos
+ - Confidence: 0.900
+ - Support: 0.003
+ - LIft: 7.610
+
+Rule #3
+Rule:  Music, Search, Photos  Video
+ - Confidence: 0.889
+ - Support: 0.003
+ - LIft: 8.049
+
+Rule #4
+Rule:  Social, Video, News Services  Photos
+ - Confidence: 0.864
+ - Support: 0.003
+ - LIft: 7.303
+
+Rule #5
+Rule:  Social, Video, Reference  Photos
+ - Confidence: 0.850
+ - Support: 0.003
+ - LIft: 7.187
+
+Rule #6
+Rule:  Video, Bookmarks  Photos
+ - Confidence: 0.839
+ - Support: 0.005
+ - LIft: 7.092
+
+Rule #7
+Rule:  Video, Reference, Photos  Mapping
+ - Confidence: 0.833
+ - Support: 0.004
+ - LIft: 1.948
+
+Rule #8
+Rule:  Social, News Services, Photos  Video
+ - Confidence: 0.826
+ - Support: 0.003
+ - LIft: 7.480
+
+Rule #9
+Rule:  eCommerce, Music, Photos  Video
+ - Confidence: 0.824
+ - Support: 0.002
+ - LIft: 7.457
+
+Rule #10
+Rule:  Social, Music, Search  Video
+ - Confidence: 0.824
+ - Support: 0.002
+ - LIft: 7.457
+
+Rule #11
+Rule:  Social, Video, Reference, Photos  Mapping
+ - Confidence: 0.824
+ - Support: 0.002
+ - LIft: 1.925
+
+Rule #12
+Rule:  Mapping, Social, Reference, Photos  Video
+ - Confidence: 0.824
+ - Support: 0.002
+ - LIft: 7.457
+
+Rule #13
+Rule:  Social, Bookmarks, Photos  Video
+ - Confidence: 0.818
+ - Support: 0.003
+ - LIft: 7.408
+
+Rule #14
+Rule:  eCommerce, Social, Photos  Video
+ - Confidence: 0.810
+ - Support: 0.003
+ - LIft: 7.330
+
+Rule #15
+Rule:  Mapping, Video, Reference  Photos
+ - Confidence: 0.800
+ - Support: 0.004
+ - LIft: 6.765
+
+Rule #16
+Rule:  Video, News Services, Photos  Social
+ - Confidence: 0.792
+ - Support: 0.003
+ - LIft: 3.922
+
+Rule #17
+Rule:  Music, Search  Video
+ - Confidence: 0.781
+ - Support: 0.004
+ - LIft: 7.074
+
+Rule #18
+Rule:  News Services, Photos  Video
+ - Confidence: 0.774
+ - Support: 0.004
+ - LIft: 7.010
+
+Rule #19
+Rule:  Mapping, Social, Video  Photos
+ - Confidence: 0.773
+ - Support: 0.006
+ - LIft: 6.534
+
+Rule #20
+Rule:  Reference, Photos  Mapping
+ - Confidence: 0.758
+ - Support: 0.008
+ - LIft: 1.772
+
+Rule #21
+Rule:  Social, Video, Reference  Mapping
+ - Confidence: 0.750
+ - Support: 0.003
+ - LIft: 1.753
+
+Rule #22
+Rule:  News Services, Photos  Social
+ - Confidence: 0.742
+ - Support: 0.004
+ - LIft: 3.676
+
+Rule #23
+Rule:  Advertising, Photos  Mapping
+ - Confidence: 0.741
+ - Support: 0.004
+ - LIft: 1.731
+
+Rule #24
+Rule:  Social, Search, Photos  Video
+ - Confidence: 0.714
+ - Support: 0.004
+ - LIft: 6.468
+
+Rule #25
+Rule:  Social, Reference, Photos  Mapping
+ - Confidence: 0.708
+ - Support: 0.003
+ - LIft: 1.655
+
+Rule #26
+Rule:  Video, Reference, Photos  Social
+ - Confidence: 0.708
+ - Support: 0.003
+ - LIft: 3.509
+
+Rule #27
+Rule:  Social, Reference, Photos  Video
+ - Confidence: 0.708
+ - Support: 0.003
+ - LIft: 6.414
+
+Rule #28
+Rule:  Video, News Services  Photos
+ - Confidence: 0.706
+ - Support: 0.004
+ - LIft: 5.969
+
+Rule #29
+Rule:  eCommerce, Mapping, Photos  Video
+ - Confidence: 0.700
+ - Support: 0.002
+ - LIft: 6.338
+
+Rule #30
+Rule:  Mapping, Video, Reference, Photos  Social
+ - Confidence: 0.700
+ - Support: 0.002
+ - LIft: 3.468
+
+Rule #31
+Rule:  Video, Reference  Mapping
+ - Confidence: 0.694
+ - Support: 0.004
+ - LIft: 1.623
+
+Rule #32
+Rule:  Video, Bookmarks, Photos  Social
+ - Confidence: 0.692
+ - Support: 0.003
+ - LIft: 3.430
+
+Rule #33
+Rule:  Other, Photos  Social
+ - Confidence: 0.688
+ - Support: 0.004
+ - LIft: 3.406
+
+Rule #34
+Rule:  Weather  Mapping
+ - Confidence: 0.686
+ - Support: 0.009
+ - LIft: 1.603
+
+Rule #35
+Rule:  Music, Photos  Video
+ - Confidence: 0.680
+ - Support: 0.006
+ - LIft: 6.157
+
+Rule #36
+Rule:  Social, Music, Photos  Video
+ - Confidence: 0.679
+ - Support: 0.003
+ - LIft: 6.144
+
+Rule #37
+Rule:  Advertising, Video  Mapping
+ - Confidence: 0.667
+ - Support: 0.003
+ - LIft: 1.558
+
+Rule #38
+Rule:  Video, Reference  Photos
+ - Confidence: 0.667
+ - Support: 0.004
+ - LIft: 5.637
+
+Rule #39
+Rule:  Social, Recommendations  Mapping
+ - Confidence: 0.654
+ - Support: 0.003
+ - LIft: 1.528
+
+Rule #40
+Rule:  eCommerce, Music  Video
+ - Confidence: 0.650
+ - Support: 0.005
+ - LIft: 5.886
+
+Rule #41
+Rule:  Video, News Services  Social
+ - Confidence: 0.647
+ - Support: 0.004
+ - LIft: 3.206
+
+Rule #42
+Rule:  Video, Bookmarks  Social
+ - Confidence: 0.645
+ - Support: 0.004
+ - LIft: 3.196
+
+Rule #43
+Rule:  Messaging, Social  Telephony
+ - Confidence: 0.644
+ - Support: 0.005
+ - LIft: 9.037
+
+Rule #44
+Rule:  News Services, Bookmarks  Social
+ - Confidence: 0.643
+ - Support: 0.003
+ - LIft: 3.185
+
+Rule #45
+Rule:  Music, Video, Search  Photos
+ - Confidence: 0.640
+ - Support: 0.003
+ - LIft: 5.412
+
+Rule #46
+Rule:  Mapping, Social, Reference  Photos
+ - Confidence: 0.630
+ - Support: 0.003
+ - LIft: 5.324
+
+Rule #47
+Rule:  eCommerce, Search, Photos  Video
+ - Confidence: 0.615
+ - Support: 0.003
+ - LIft: 5.572
+
+Rule #48
+Rule:  Mapping, Analytics  Social
+ - Confidence: 0.607
+ - Support: 0.003
+ - LIft: 3.008
+
+Rule #49
+Rule:  Mapping, Video, Reference  Social
+ - Confidence: 0.600
+ - Support: 0.003
+ - LIft: 2.973
+
+Rule #50
+Rule:  Mapping, Video, Search  Photos
+ - Confidence: 0.586
+ - Support: 0.003
+ - LIft: 4.957
+
+Rule #51
+Rule:  eCommerce, Photos  Video
+ - Confidence: 0.583
+ - Support: 0.006
+ - LIft: 5.282
+
+Rule #52
+Rule:  Advertising  Mapping
+ - Confidence: 0.582
+ - Support: 0.014
+ - LIft: 1.360
+
+Rule #53
+Rule:  Social, Video, Search  Photos
+ - Confidence: 0.581
+ - Support: 0.004
+ - LIft: 4.916
+
+Rule #54
+Rule:  Social, News Services  Photos
+ - Confidence: 0.575
+ - Support: 0.004
+ - LIft: 4.862
+
+Rule #55
+Rule:  Social, Analytics  Mapping
+ - Confidence: 0.567
+ - Support: 0.003
+ - LIft: 1.324
+
+Rule #56
+Rule:  Music, Search  Photos
+ - Confidence: 0.562
+ - Support: 0.003
+ - LIft: 4.756
+
+Rule #57
+Rule:  Music, Photos  Social
+ - Confidence: 0.560
+ - Support: 0.005
+ - LIft: 2.774
+
+Rule #58
+Rule:  Music, Search, Video  Social
+ - Confidence: 0.560
+ - Support: 0.002
+ - LIft: 2.774
+
+Rule #59
+Rule:  Music, Video, Photos  Social
+ - Confidence: 0.559
+ - Support: 0.003
+ - LIft: 2.769
+
+Rule #60
+Rule:  Mapping, Social, Photos  Video
+ - Confidence: 0.557
+ - Support: 0.006
+ - LIft: 5.047
+
+Rule #61
+Rule:  Video, Reference  Social
+ - Confidence: 0.556
+ - Support: 0.004
+ - LIft: 2.752
+
+Rule #62
+Rule:  Mapping, Social, Reference  Video
+ - Confidence: 0.556
+ - Support: 0.003
+ - LIft: 5.030
+
+Rule #63
+Rule:  Bookmarks, Photos  Video
+ - Confidence: 0.553
+ - Support: 0.005
+ - LIft: 5.009
+
+Rule #64
+Rule:  Events  Mapping
+ - Confidence: 0.551
+ - Support: 0.008
+ - LIft: 1.288
+
+Rule #65
+Rule:  Social, News Services  Video
+ - Confidence: 0.550
+ - Support: 0.004
+ - LIft: 4.980
+
+Rule #66
+Rule:  eCommerce, Music, Video  Photos
+ - Confidence: 0.538
+ - Support: 0.002
+ - LIft: 4.553
+
+Rule #67
+Rule:  eCommerce, Advertising  Mapping
+ - Confidence: 0.537
+ - Support: 0.004
+ - LIft: 1.254
+
+Rule #68
+Rule:  Social, Bookmarks  Photos
+ - Confidence: 0.537
+ - Support: 0.004
+ - LIft: 4.537
+
+Rule #69
+Rule:  Music, Search  Social
+ - Confidence: 0.531
+ - Support: 0.003
+ - LIft: 2.632
+
+Rule #70
+Rule:  eCommerce, Social, Video  Photos
+ - Confidence: 0.531
+ - Support: 0.003
+ - LIft: 4.492
+
+Rule #71
+Rule:  Search, Photos  Video
+ - Confidence: 0.529
+ - Support: 0.010
+ - LIft: 4.789
+
+Rule #72
+Rule:  Social, Music  Video
+ - Confidence: 0.529
+ - Support: 0.007
+ - LIft: 4.786
+
+Rule #73
+Rule:  eCommerce, Social, Search  Video
+ - Confidence: 0.519
+ - Support: 0.002
+ - LIft: 4.695
+
+Rule #74
+Rule:  Search, Reference  Social
+ - Confidence: 0.514
+ - Support: 0.003
+ - LIft: 2.544
+
+Rule #75
+Rule:  Social, Music, Video  Photos
+ - Confidence: 0.514
+ - Support: 0.003
+ - LIft: 4.342
+
+Rule #76
+Rule:  Recommendations  Mapping
+ - Confidence: 0.512
+ - Support: 0.007
+ - LIft: 1.197
+
+Rule #77
+Rule:  Social, Reference  Mapping
+ - Confidence: 0.509
+ - Support: 0.005
+ - LIft: 1.191
+
+Rule #78
+Rule:  Social, Video  Photos
+ - Confidence: 0.503
+ - Support: 0.014
+ - LIft: 4.254
+
+Rule #79
+Rule:  eCommerce, Mapping, Video  Photos
+ - Confidence: 0.500
+ - Support: 0.002
+ - LIft: 4.228
+
+Rule #80
+Rule:  Social, Bookmarks  Video
+ - Confidence: 0.488
+ - Support: 0.004
+ - LIft: 4.417
+
+Rule #81
+Rule:  eCommerce, Video, Photos  Social
+ - Confidence: 0.486
+ - Support: 0.003
+ - LIft: 2.406
+
+Rule #82
+Rule:  Mapping, Video, Photos  Social
+ - Confidence: 0.486
+ - Support: 0.006
+ - LIft: 2.406
+
+Rule #83
+Rule:  Mapping, Video, Search  Social
+ - Confidence: 0.483
+ - Support: 0.002
+ - LIft: 2.392
+
+Rule #84
+Rule:  Mapping, Social, Search  Video
+ - Confidence: 0.483
+ - Support: 0.002
+ - LIft: 4.371
+
+Rule #85
+Rule:  Video, Photos  Social
+ - Confidence: 0.479
+ - Support: 0.014
+ - LIft: 2.374
+
+Rule #86
+Rule:  Mapping, Search, Photos  Video
+ - Confidence: 0.472
+ - Support: 0.003
+ - LIft: 4.276
+
+Rule #87
+Rule:  Music, Video, Photos  Search
+ - Confidence: 0.471
+ - Support: 0.003
+ - LIft: 4.077
+
+Rule #88
+Rule:  Analytics  Social
+ - Confidence: 0.469
+ - Support: 0.005
+ - LIft: 2.322
+
+Rule #89
+Rule:  Bookmarks, Photos  Social
+ - Confidence: 0.468
+ - Support: 0.004
+ - LIft: 2.319
+
+Rule #90
+Rule:  eCommerce, Mapping, Video  Social
+ - Confidence: 0.464
+ - Support: 0.002
+ - LIft: 2.300
+
+Rule #91
+Rule:  eCommerce, Mapping, Social  Video
+ - Confidence: 0.464
+ - Support: 0.002
+ - LIft: 4.204
+
+Rule #92
+Rule:  Messaging  Telephony
+ - Confidence: 0.460
+ - Support: 0.026
+ - LIft: 6.451
+
+Rule #93
+Rule:  Advertising, Social  Mapping
+ - Confidence: 0.459
+ - Support: 0.003
+ - LIft: 1.074
+
+Rule #94
+Rule:  Search, Reference  Mapping
+ - Confidence: 0.459
+ - Support: 0.003
+ - LIft: 1.074
+
+Rule #95
+Rule:  Reference  Mapping
+ - Confidence: 0.458
+ - Support: 0.019
+ - LIft: 1.070
+
+Rule #96
+Rule:  eCommerce, Video, Photos  Search
+ - Confidence: 0.457
+ - Support: 0.003
+ - LIft: 3.961
+
+Rule #97
+Rule:  Social, Photos  Video
+ - Confidence: 0.455
+ - Support: 0.014
+ - LIft: 4.120
+
+Rule #98
+Rule:  Video, Search, Photos  Social
+ - Confidence: 0.455
+ - Support: 0.004
+ - LIft: 2.252
+
+Rule #99
+Rule:  Social, Reference  Photos
+ - Confidence: 0.453
+ - Support: 0.004
+ - LIft: 3.829
+
+Rule #100
+Rule:  Mapping, Video  Photos
+ - Confidence: 0.452
+ - Support: 0.012
+ - LIft: 3.819
+
+Rule #101
+Rule:  Video, Search  Photos
+ - Confidence: 0.451
+ - Support: 0.010
+ - LIft: 3.812
+
+Rule #102
+Rule:  Social, News Services  Bookmarks
+ - Confidence: 0.450
+ - Support: 0.003
+ - LIft: 19.464
+
+Rule #103
+Rule:  Mapping, Music  Social
+ - Confidence: 0.447
+ - Support: 0.003
+ - LIft: 2.216
+
+Rule #104
+Rule:  Mapping, Music  Video
+ - Confidence: 0.447
+ - Support: 0.003
+ - LIft: 4.051
+
+Rule #105
+Rule:  Social, Bookmarks  News Services
+ - Confidence: 0.439
+ - Support: 0.003
+ - LIft: 20.402
+
+Rule #106
+Rule:  eCommerce, Video  Search
+ - Confidence: 0.438
+ - Support: 0.007
+ - LIft: 3.797
+
+Rule #107
+Rule:  Analytics  Mapping
+ - Confidence: 0.438
+ - Support: 0.005
+ - LIft: 1.022
+
+Rule #108
+Rule:  eCommerce, Social, Video  Search
+ - Confidence: 0.438
+ - Support: 0.002
+ - LIft: 3.791
+
+Rule #109
+Rule:  eCommerce, Photos  Search
+ - Confidence: 0.433
+ - Support: 0.005
+ - LIft: 3.754
+
+Rule #110
+Rule:  Social, Telephony  Messaging
+ - Confidence: 0.433
+ - Support: 0.005
+ - LIft: 7.776
+
+Rule #111
+Rule:  Mapping, Reference  Photos
+ - Confidence: 0.431
+ - Support: 0.008
+ - LIft: 3.646
+
+Rule #112
+Rule:  Mapping, Reference, Photos  Video
+ - Confidence: 0.426
+ - Support: 0.004
+ - LIft: 3.853
+
+Rule #113
+Rule:  Search, Bookmarks  Photos
+ - Confidence: 0.425
+ - Support: 0.003
+ - LIft: 3.594
+
+Rule #114
+Rule:  eCommerce, Music  Photos
+ - Confidence: 0.425
+ - Support: 0.003
+ - LIft: 3.594
+
+Rule #115
+Rule:  Other, Mapping  Social
+ - Confidence: 0.424
+ - Support: 0.005
+ - LIft: 2.102
+
+Rule #116
+Rule:  Social, Video, Photos  Mapping
+ - Confidence: 0.420
+ - Support: 0.006
+ - LIft: 0.981
+
+Rule #117
+Rule:  Video, Photos  Mapping
+ - Confidence: 0.414
+ - Support: 0.012
+ - LIft: 0.968
+
+Rule #118
+Rule:  Music, Video, Photos  eCommerce
+ - Confidence: 0.412
+ - Support: 0.002
+ - LIft: 3.853
+
+Rule #119
+Rule:  Mapping, Social, Video, Photos  Reference
+ - Confidence: 0.412
+ - Support: 0.002
+ - LIft: 9.728
+
+Rule #120
+Rule:  eCommerce, Video, Search  Photos
+ - Confidence: 0.410
+ - Support: 0.003
+ - LIft: 3.469
+
+Rule #121
+Rule:  Music  Video
+ - Confidence: 0.407
+ - Support: 0.022
+ - LIft: 3.682
+
+Rule #122
+Rule:  eCommerce, Social, Video  Mapping
+ - Confidence: 0.406
+ - Support: 0.002
+ - LIft: 0.949
+
+Rule #123
+Rule:  Other, Social  Mapping
+ - Confidence: 0.406
+ - Support: 0.005
+ - LIft: 0.948
+
+Rule #124
+Rule:  Mapping, Recommendations  Social
+ - Confidence: 0.405
+ - Support: 0.003
+ - LIft: 2.005
+
+Rule #125
+Rule:  Social, Music  Photos
+ - Confidence: 0.400
+ - Support: 0.005
+ - LIft: 3.382
+
+Rule #126
+Rule:  eCommerce, Video, Photos  Mapping
+ - Confidence: 0.400
+ - Support: 0.002
+ - LIft: 0.935
+
+Rule #127
+Rule:  eCommerce, Video, Photos  Music
+ - Confidence: 0.400
+ - Support: 0.002
+ - LIft: 7.497
+
+Rule #128
+Rule:  Social, Search  Video
+ - Confidence: 0.398
+ - Support: 0.008
+ - LIft: 3.605
+
+Rule #129
+Rule:  eCommerce, Video  Photos
+ - Confidence: 0.393
+ - Support: 0.006
+ - LIft: 3.325
+
+Rule #130
+Rule:  Reference, Photos  Video
+ - Confidence: 0.387
+ - Support: 0.004
+ - LIft: 3.505
+
+Rule #131
+Rule:  Reference, Photos  Social
+ - Confidence: 0.387
+ - Support: 0.004
+ - LIft: 1.918
+
+Rule #132
+Rule:  Social, Music, Video  Search
+ - Confidence: 0.378
+ - Support: 0.002
+ - LIft: 3.278
+
+Rule #133
+Rule:  Social, Reference  Video
+ - Confidence: 0.377
+ - Support: 0.004
+ - LIft: 3.417
+
+Rule #134
+Rule:  Blogging  Social
+ - Confidence: 0.372
+ - Support: 0.006
+ - LIft: 1.845
+
+Rule #135
+Rule:  Bookmarks, Photos  Search
+ - Confidence: 0.362
+ - Support: 0.003
+ - LIft: 3.134
+
+Rule #136
+Rule:  Mapping, Reference, Photos  Social
+ - Confidence: 0.362
+ - Support: 0.003
+ - LIft: 1.792
+
+Rule #137
+Rule:  Bookmarks  Photos
+ - Confidence: 0.362
+ - Support: 0.008
+ - LIft: 3.057
+
+Rule #138
+Rule:  Music, Photos  Search
+ - Confidence: 0.360
+ - Support: 0.003
+ - LIft: 3.119
+
+Rule #139
+Rule:  eCommerce, Video  Social
+ - Confidence: 0.360
+ - Support: 0.006
+ - LIft: 1.781
+
+Rule #140
+Rule:  eCommerce, Social  Video
+ - Confidence: 0.360
+ - Support: 0.006
+ - LIft: 3.256
+
+Rule #141
+Rule:  Telephony  Messaging
+ - Confidence: 0.359
+ - Support: 0.026
+ - LIft: 6.451
+
+Rule #142
+Rule:  eCommerce, Video, Search  Social
+ - Confidence: 0.359
+ - Support: 0.002
+ - LIft: 1.778
+
+Rule #143
+Rule:  Social, Reference  Search
+ - Confidence: 0.358
+ - Support: 0.003
+ - LIft: 3.106
+
+Rule #144
+Rule:  Search, Video  Social
+ - Confidence: 0.352
+ - Support: 0.008
+ - LIft: 1.746
+
+Rule #145
+Rule:  Blogging  Mapping
+ - Confidence: 0.351
+ - Support: 0.006
+ - LIft: 0.820
+
+Rule #146
+Rule:  eCommerce, Photos  Social
+ - Confidence: 0.350
+ - Support: 0.004
+ - LIft: 1.734
+
+Rule #147
+Rule:  Cloud  Storage
+ - Confidence: 0.346
+ - Support: 0.005
+ - LIft: 18.897
+
+Rule #148
+Rule:  Search, Photos  Mapping
+ - Confidence: 0.346
+ - Support: 0.006
+ - LIft: 0.809
+
+Rule #149
+Rule:  Social, Photos  Mapping
+ - Confidence: 0.343
+ - Support: 0.011
+ - LIft: 0.801
+
+Rule #150
+Rule:  Mapping, Social, Video  Reference
+ - Confidence: 0.341
+ - Support: 0.003
+ - LIft: 8.054
+
+Rule #151
+Rule:  Music, Photos  eCommerce
+ - Confidence: 0.340
+ - Support: 0.003
+ - LIft: 3.181
+
+Rule #152
+Rule:  Photos  Mapping
+ - Confidence: 0.337
+ - Support: 0.040
+ - LIft: 0.787
+
+Rule #153
+Rule:  Search, Photos  Social
+ - Confidence: 0.337
+ - Support: 0.006
+ - LIft: 1.667
+
+Rule #154
+Rule:  eCommerce, Photos  Mapping
+ - Confidence: 0.333
+ - Support: 0.004
+ - LIft: 0.779
+
+Rule #155
+Rule:  News Services  Social
+ - Confidence: 0.331
+ - Support: 0.007
+ - LIft: 1.638
+
+Rule #156
+Rule:  Social, Video, Search  eCommerce
+ - Confidence: 0.326
+ - Support: 0.002
+ - LIft: 3.046
+
+Rule #157
+Rule:  Social, Video, Search  Mapping
+ - Confidence: 0.326
+ - Support: 0.002
+ - LIft: 0.761
+
+Rule #158
+Rule:  Social, Search, Video  Music
+ - Confidence: 0.326
+ - Support: 0.002
+ - LIft: 6.102
+
+Rule #159
+Rule:  Video, Photos  Search
+ - Confidence: 0.325
+ - Support: 0.010
+ - LIft: 2.820
+
+Rule #160
+Rule:  Database  Mapping
+ - Confidence: 0.325
+ - Support: 0.007
+ - LIft: 0.760
+
+Rule #161
+Rule:  Social, Search  Photos
+ - Confidence: 0.324
+ - Support: 0.006
+ - LIft: 2.740
+
+Rule #162
+Rule:  Video, Search  eCommerce
+ - Confidence: 0.320
+ - Support: 0.007
+ - LIft: 2.991
+
+Rule #163
+Rule:  Other, Social  Photos
+ - Confidence: 0.319
+ - Support: 0.004
+ - LIft: 2.696
+
+Rule #164
+Rule:  Mapping, Social, Video  Search
+ - Confidence: 0.318
+ - Support: 0.002
+ - LIft: 2.757
+
+Rule #165
+Rule:  Recommendations  Social
+ - Confidence: 0.317
+ - Support: 0.005
+ - LIft: 1.571
+
+Rule #166
+Rule:  Bookmarks  Social
+ - Confidence: 0.315
+ - Support: 0.007
+ - LIft: 1.562
+
+Rule #167
+Rule:  eCommerce, Video  Mapping
+ - Confidence: 0.315
+ - Support: 0.005
+ - LIft: 0.735
+
+Rule #168
+Rule:  eCommerce, Social  Mapping
+ - Confidence: 0.315
+ - Support: 0.005
+ - LIft: 0.735
+
+Rule #169
+Rule:  Mapping, Photos  Video
+ - Confidence: 0.312
+ - Support: 0.012
+ - LIft: 2.830
+
+Rule #170
+Rule:  Video, Search, Photos  Mapping
+ - Confidence: 0.309
+ - Support: 0.003
+ - LIft: 0.722
+
+Rule #171
+Rule:  Social, Video, Photos  Search
+ - Confidence: 0.309
+ - Support: 0.004
+ - LIft: 2.674
+
+Rule #172
+Rule:  Bookmarks  Search
+ - Confidence: 0.308
+ - Support: 0.007
+ - LIft: 2.666
+
+Rule #173
+Rule:  Travel  Mapping
+ - Confidence: 0.306
+ - Support: 0.005
+ - LIft: 0.715
+
+Rule #174
+Rule:  Advertising  eCommerce
+ - Confidence: 0.306
+ - Support: 0.007
+ - LIft: 2.863
+
+Rule #175
+Rule:  eCommerce, Social  Search
+ - Confidence: 0.303
+ - Support: 0.005
+ - LIft: 2.628
+
+Rule #176
+Rule:  Music, Video  Social
+ - Confidence: 0.303
+ - Support: 0.007
+ - LIft: 1.502
+
+Rule #177
+Rule:  Storage  Social
+ - Confidence: 0.301
+ - Support: 0.006
+ - LIft: 1.491
+
+Rule #178
+Rule:  Mapping, Social, Video  eCommerce
+ - Confidence: 0.295
+ - Support: 0.002
+ - LIft: 2.764
+
+Rule #179
+Rule:  eCommerce, Mapping  Search
+ - Confidence: 0.293
+ - Support: 0.006
+ - LIft: 2.539
+
+Rule #180
+Rule:  eCommerce, Video  Music
+ - Confidence: 0.292
+ - Support: 0.005
+ - LIft: 5.476
+
+Rule #181
+Rule:  Video, Search, Photos  Music
+ - Confidence: 0.291
+ - Support: 0.003
+ - LIft: 5.453
+
+Rule #182
+Rule:  Video, Search, Photos  eCommerce
+ - Confidence: 0.291
+ - Support: 0.003
+ - LIft: 2.722
+
+Rule #183
+Rule:  Tools  Social
+ - Confidence: 0.288
+ - Support: 0.010
+ - LIft: 1.426
+
+Rule #184
+Rule:  Mapping, Video, Photos  Reference
+ - Confidence: 0.286
+ - Support: 0.004
+ - LIft: 6.750
+
+Rule #185
+Rule:  Other  Social
+ - Confidence: 0.285
+ - Support: 0.012
+ - LIft: 1.413
+
+Rule #186
+Rule:  Mapping, Video  Social
+ - Confidence: 0.284
+ - Support: 0.008
+ - LIft: 1.406
+
+Rule #187
+Rule:  eCommerce, Photos  Music
+ - Confidence: 0.283
+ - Support: 0.003
+ - LIft: 5.311
+
+Rule #188
+Rule:  Advertising, Mapping  eCommerce
+ - Confidence: 0.282
+ - Support: 0.004
+ - LIft: 2.639
+
+Rule #189
+Rule:  News Services  Video
+ - Confidence: 0.281
+ - Support: 0.006
+ - LIft: 2.544
+
+Rule #190
+Rule:  Music, Video  Photos
+ - Confidence: 0.279
+ - Support: 0.006
+ - LIft: 2.356
+
+Rule #191
+Rule:  Mapping, Social, Photos  Reference
+ - Confidence: 0.279
+ - Support: 0.003
+ - LIft: 6.584
+
+Rule #192
+Rule:  Advertising  Search
+ - Confidence: 0.276
+ - Support: 0.007
+ - LIft: 2.392
+
+Rule #193
+Rule:  Advertising  Social
+ - Confidence: 0.276
+ - Support: 0.007
+ - LIft: 1.368
+
+Rule #194
+Rule:  Social, Video  Mapping
+ - Confidence: 0.273
+ - Support: 0.008
+ - LIft: 0.639
+
+Rule #195
+Rule:  Other  Mapping
+ - Confidence: 0.273
+ - Support: 0.012
+ - LIft: 0.637
+
+Rule #196
+Rule:  Mapping, Photos  Social
+ - Confidence: 0.272
+ - Support: 0.011
+ - LIft: 1.349
+
+Rule #197
+Rule:  Video  Photos
+ - Confidence: 0.272
+ - Support: 0.030
+ - LIft: 2.301
+
+Rule #198
+Rule:  Social, Search  Mapping
+ - Confidence: 0.269
+ - Support: 0.005
+ - LIft: 0.628
+
+Rule #199
+Rule:  Photos  Social
+ - Confidence: 0.268
+ - Support: 0.032
+ - LIft: 1.326
+
+Rule #200
+Rule:  Social, Video  Search
+ - Confidence: 0.267
+ - Support: 0.008
+ - LIft: 2.314
+
+Rule #201
+Rule:  Storage  Mapping
+ - Confidence: 0.262
+ - Support: 0.005
+ - LIft: 0.613
+
+Rule #202
+Rule:  Storage  Cloud
+ - Confidence: 0.262
+ - Support: 0.005
+ - LIft: 18.897
+
+Rule #203
+Rule:  Reference  Photos
+ - Confidence: 0.261
+ - Support: 0.011
+ - LIft: 2.203
+
+Rule #204
+Rule:  Social  Mapping
+ - Confidence: 0.260
+ - Support: 0.052
+ - LIft: 0.607
+
+Rule #205
+Rule:  Video  Social
+ - Confidence: 0.259
+ - Support: 0.029
+ - LIft: 1.284
+
+Rule #206
+Rule:  eCommerce, Search  Video
+ - Confidence: 0.257
+ - Support: 0.007
+ - LIft: 2.323
+
+Rule #207
+Rule:  Advertising, Mapping  Photos
+ - Confidence: 0.256
+ - Support: 0.004
+ - LIft: 2.168
+
+Rule #208
+Rule:  News Services  Photos
+ - Confidence: 0.256
+ - Support: 0.006
+ - LIft: 2.166
+
+Rule #209
+Rule:  Photos  Video
+ - Confidence: 0.254
+ - Support: 0.030
+ - LIft: 2.301
+
+Rule #210
+Rule:  eCommerce  Search
+ - Confidence: 0.253
+ - Support: 0.027
+ - LIft: 2.191
+
+Rule #211
+Rule:  Social, Search  eCommerce
+ - Confidence: 0.250
+ - Support: 0.005
+ - LIft: 2.339
+
+Rule #212
+Rule:  Search, Photos  eCommerce
+ - Confidence: 0.250
+ - Support: 0.005
+ - LIft: 2.339
+
+Rule #213
+Rule:  Video  Mapping
+ - Confidence: 0.250
+ - Support: 0.028
+ - LIft: 0.583
+
+Rule #214
+Rule:  Mapping, Reference  Social
+ - Confidence: 0.248
+ - Support: 0.005
+ - LIft: 1.227
+
+Rule #215
+Rule:  Social, Music  Search
+ - Confidence: 0.243
+ - Support: 0.003
+ - LIft: 2.104
+
+Rule #216
+Rule:  Social, Music  Mapping
+ - Confidence: 0.243
+ - Support: 0.003
+ - LIft: 0.568
+
+Rule #217
+Rule:  Mapping, Video, Photos  Search
+ - Confidence: 0.243
+ - Support: 0.003
+ - LIft: 2.104
+
+Rule #218
+Rule:  eCommerce, Mapping  Video
+ - Confidence: 0.241
+ - Support: 0.005
+ - LIft: 2.186
+
+Rule #219
+Rule:  eCommerce, Mapping  Social
+ - Confidence: 0.241
+ - Support: 0.005
+ - LIft: 1.196
+
+Rule #220
+Rule:  Mapping, Search  Photos
+ - Confidence: 0.240
+ - Support: 0.006
+ - LIft: 2.029
+
+Rule #221
+Rule:  News Services  Search
+ - Confidence: 0.240
+ - Support: 0.005
+ - LIft: 2.077
+
+Rule #222
+Rule:  Bookmarks  Video
+ - Confidence: 0.238
+ - Support: 0.006
+ - LIft: 2.159
+
+Rule #223
+Rule:  Video, Search  Mapping
+ - Confidence: 0.238
+ - Support: 0.005
+ - LIft: 0.556
+
+Rule #224
+Rule:  eCommerce, Social  Photos
+ - Confidence: 0.236
+ - Support: 0.004
+ - LIft: 1.995
+
+Rule #225
+Rule:  Social, Video, Photos  Music
+ - Confidence: 0.235
+ - Support: 0.003
+ - LIft: 4.397
+
+Rule #226
+Rule:  Social, Video, Photos  News Services
+ - Confidence: 0.235
+ - Support: 0.003
+ - LIft: 10.901
+
+Rule #227
+Rule:  Search  eCommerce
+ - Confidence: 0.234
+ - Support: 0.027
+ - LIft: 2.191
+
+Rule #228
+Rule:  Music  Social
+ - Confidence: 0.233
+ - Support: 0.012
+ - LIft: 1.156
+
+Rule #229
+Rule:  News Services  Bookmarks
+ - Confidence: 0.231
+ - Support: 0.005
+ - LIft: 10.009
+
+Rule #230
+Rule:  Search  Mapping
+ - Confidence: 0.231
+ - Support: 0.027
+ - LIft: 0.540
+
+Rule #231
+Rule:  Advertising, Mapping  Video
+ - Confidence: 0.231
+ - Support: 0.003
+ - LIft: 2.090
+
+Rule #232
+Rule:  Social, Video  Music
+ - Confidence: 0.230
+ - Support: 0.007
+ - LIft: 4.307
+
+Rule #233
+Rule:  Mapping, Reference  Video
+ - Confidence: 0.229
+ - Support: 0.004
+ - LIft: 2.077
+
+Rule #234
+Rule:  Mapping, Search  eCommerce
+ - Confidence: 0.227
+ - Support: 0.006
+ - LIft: 2.121
+
+Rule #235
+Rule:  eCommerce, Search  Mapping
+ - Confidence: 0.224
+ - Support: 0.006
+ - LIft: 0.523
+
+Rule #236
+Rule:  Reference  Social
+ - Confidence: 0.223
+ - Support: 0.009
+ - LIft: 1.103
+
+Rule #237
+Rule:  Social, Video, Photos  Bookmarks
+ - Confidence: 0.222
+ - Support: 0.003
+ - LIft: 9.612
+
+Rule #238
+Rule:  Tools  Mapping
+ - Confidence: 0.220
+ - Support: 0.008
+ - LIft: 0.513
+
+Rule #239
+Rule:  Advertising, Mapping  Social
+ - Confidence: 0.218
+ - Support: 0.003
+ - LIft: 1.080
+
+Rule #240
+Rule:  Bookmarks  News Services
+ - Confidence: 0.215
+ - Support: 0.005
+ - LIft: 10.009
+
+Rule #241
+Rule:  Music, Video  eCommerce
+ - Confidence: 0.213
+ - Support: 0.005
+ - LIft: 1.994
+
+Rule #242
+Rule:  Social, Video, Photos  eCommerce
+ - Confidence: 0.210
+ - Support: 0.003
+ - LIft: 1.964
+
+Rule #243
+Rule:  Social, Video, Photos  Reference
+ - Confidence: 0.210
+ - Support: 0.003
+ - LIft: 4.959
+
+Rule #244
+Rule:  Mapping, Photos  Reference
+ - Confidence: 0.210
+ - Support: 0.008
+ - LIft: 4.957
+
+Rule #245
+Rule:  Video, Photos  eCommerce
+ - Confidence: 0.207
+ - Support: 0.006
+ - LIft: 1.938
+
+Rule #246
+Rule:  Mapping, Social  Photos
+ - Confidence: 0.207
+ - Support: 0.011
+ - LIft: 1.748
+
+Rule #247
+Rule:  News Services  eCommerce
+ - Confidence: 0.207
+ - Support: 0.004
+ - LIft: 1.933
+
+Rule #248
+Rule:  Search, Video  Music
+ - Confidence: 0.205
+ - Support: 0.004
+ - LIft: 3.841
+
+Rule #249
+Rule:  Music, Video  Search
+ - Confidence: 0.205
+ - Support: 0.004
+ - LIft: 1.775
+
+Rule #250
+Rule:  Advertising  Video
+ - Confidence: 0.201
+ - Support: 0.005
+ - LIft: 1.824
+
+Rule #251
+Rule:  Advertising  Photos
+ - Confidence: 0.201
+ - Support: 0.005
+ - LIft: 1.704
+
+Rule #252
+Rule:  Messaging, Telephony  Social
+ - Confidence: 0.201
+ - Support: 0.005
+ - LIft: 0.998
+
+Rule #253
+Rule:  Video, Photos  Music
+ - Confidence: 0.201
+ - Support: 0.006
+ - LIft: 3.771
+
+Rule #254
+Rule:  Mapping, Video, Photos  eCommerce
+ - Confidence: 0.200
+ - Support: 0.002
+ - LIft: 1.871
+
+Rule #255
+Rule:  Social, Video  eCommerce
+ - Confidence: 0.199
+ - Support: 0.006
+ - LIft: 1.860
+
+Rule #256
+Rule:  Social, Photos  Search
+ - Confidence: 0.197
+ - Support: 0.006
+ - LIft: 1.704
+
+Rule #257
+Rule:  Video  Search
+ - Confidence: 0.196
+ - Support: 0.022
+ - LIft: 1.702
+
+Rule #258
+Rule:  Video  Music
+ - Confidence: 0.196
+ - Support: 0.022
+ - LIft: 3.682
+
+Rule #259
+Rule:  Mapping, Search  Video
+ - Confidence: 0.193
+ - Support: 0.005
+ - LIft: 1.751
+
+Rule #260
+Rule:  Mapping, Search  Social
+ - Confidence: 0.193
+ - Support: 0.005
+ - LIft: 0.958
+
+Rule #261
+Rule:  eCommerce  Mapping
+ - Confidence: 0.193
+ - Support: 0.021
+ - LIft: 0.451
+
+Rule #262
+Rule:  eCommerce, Mapping  Advertising
+ - Confidence: 0.190
+ - Support: 0.004
+ - LIft: 7.958
+
+Rule #263
+Rule:  Search  Video
+ - Confidence: 0.188
+ - Support: 0.022
+ - LIft: 1.702
+
+Rule #264
+Rule:  Mapping, Video  Search
+ - Confidence: 0.187
+ - Support: 0.005
+ - LIft: 1.621
+
+Rule #265
+Rule:  Mapping, Video  eCommerce
+ - Confidence: 0.181
+ - Support: 0.005
+ - LIft: 1.690
+
+Rule #266
+Rule:  eCommerce, Search  Social
+ - Confidence: 0.178
+ - Support: 0.005
+ - LIft: 0.880
+
+Rule #267
+Rule:  Social, Search  Reference
+ - Confidence: 0.176
+ - Support: 0.003
+ - LIft: 4.156
+
+Rule #268
+Rule:  Search, Photos  Music
+ - Confidence: 0.173
+ - Support: 0.003
+ - LIft: 3.244
+
+Rule #269
+Rule:  eCommerce, Mapping  Photos
+ - Confidence: 0.172
+ - Support: 0.004
+ - LIft: 1.458
+
+Rule #270
+Rule:  eCommerce, Search  Photos
+ - Confidence: 0.171
+ - Support: 0.005
+ - LIft: 1.446
+
+Rule #271
+Rule:  Telephony  Social
+ - Confidence: 0.167
+ - Support: 0.012
+ - LIft: 0.828
+
+Rule #272
+Rule:  Music  Photos
+ - Confidence: 0.167
+ - Support: 0.009
+ - LIft: 1.409
+
+Rule #273
+Rule:  Search  Social
+ - Confidence: 0.166
+ - Support: 0.019
+ - LIft: 0.824
+
+Rule #274
+Rule:  Search, Photos  Bookmarks
+ - Confidence: 0.163
+ - Support: 0.003
+ - LIft: 7.070
+
+Rule #275
+Rule:  Mapping, Video  Reference
+ - Confidence: 0.161
+ - Support: 0.004
+ - LIft: 3.811
+
+Rule #276
+Rule:  Mapping, Photos  Search
+ - Confidence: 0.161
+ - Support: 0.006
+ - LIft: 1.392
+
+Rule #277
+Rule:  Search  Photos
+ - Confidence: 0.160
+ - Support: 0.018
+ - LIft: 1.355
+
+Rule #278
+Rule:  Social, Search  Music
+ - Confidence: 0.157
+ - Support: 0.003
+ - LIft: 2.950
+
+Rule #279
+Rule:  Social, Photos  Music
+ - Confidence: 0.157
+ - Support: 0.005
+ - LIft: 2.948
+
+Rule #280
+Rule:  Social  Photos
+ - Confidence: 0.157
+ - Support: 0.032
+ - LIft: 1.326
+
+Rule #281
+Rule:  Photos  Search
+ - Confidence: 0.156
+ - Support: 0.018
+ - LIft: 1.355
+
+Rule #282
+Rule:  Mapping, Reference  Search
+ - Confidence: 0.156
+ - Support: 0.003
+ - LIft: 1.351
+
+Rule #283
+Rule:  Reference  Search
+ - Confidence: 0.155
+ - Support: 0.007
+ - LIft: 1.347
+
+Rule #284
+Rule:  Video, Photos  Bookmarks
+ - Confidence: 0.154
+ - Support: 0.005
+ - LIft: 6.654
+
+Rule #285
+Rule:  Reference  Video
+ - Confidence: 0.151
+ - Support: 0.006
+ - LIft: 1.370
+
+Rule #286
+Rule:  Mapping, Social  Video
+ - Confidence: 0.149
+ - Support: 0.008
+ - LIft: 1.351
+
+Rule #287
+Rule:  eCommerce  Video
+ - Confidence: 0.148
+ - Support: 0.016
+ - LIft: 1.341
+
+Rule #288
+Rule:  eCommerce  Social
+ - Confidence: 0.148
+ - Support: 0.016
+ - LIft: 0.734
+
+Rule #289
+Rule:  Messaging  Social
+ - Confidence: 0.144
+ - Support: 0.008
+ - LIft: 0.712
+
+Rule #290
+Rule:  Video  eCommerce
+ - Confidence: 0.143
+ - Support: 0.016
+ - LIft: 1.341
+
+Rule #291
+Rule:  Video, Photos  News Services
+ - Confidence: 0.142
+ - Support: 0.004
+ - LIft: 6.599
+
+Rule #292
+Rule:  Video, Photos  Reference
+ - Confidence: 0.142
+ - Support: 0.004
+ - LIft: 3.355
+
+Rule #293
+Rule:  Social  Video
+ - Confidence: 0.142
+ - Support: 0.029
+ - LIft: 1.284
+
+Rule #294
+Rule:  Music, Video  Mapping
+ - Confidence: 0.139
+ - Support: 0.003
+ - LIft: 0.326
+
+Rule #295
+Rule:  Social, Video  News Services
+ - Confidence: 0.137
+ - Support: 0.004
+ - LIft: 6.350
+
+Rule #296
+Rule:  Social, Photos  Reference
+ - Confidence: 0.135
+ - Support: 0.004
+ - LIft: 3.186
+
+Rule #297
+Rule:  Music  eCommerce
+ - Confidence: 0.133
+ - Support: 0.007
+ - LIft: 1.247
+
+Rule #298
+Rule:  Other  Photos
+ - Confidence: 0.132
+ - Support: 0.006
+ - LIft: 1.118
+
+Rule #299
+Rule:  Social, Photos  News Services
+ - Confidence: 0.129
+ - Support: 0.004
+ - LIft: 6.005
+
+Rule #300
+Rule:  Other  Video
+ - Confidence: 0.128
+ - Support: 0.006
+ - LIft: 1.160
+
+Rule #301
+Rule:  Music  Mapping
+ - Confidence: 0.127
+ - Support: 0.007
+ - LIft: 0.296
+
+Rule #302
+Rule:  Social, Video  Reference
+ - Confidence: 0.124
+ - Support: 0.004
+ - LIft: 2.935
+
+Rule #303
+Rule:  Social, Video  Bookmarks
+ - Confidence: 0.124
+ - Support: 0.004
+ - LIft: 5.373
+
+Rule #304
+Rule:  Other  eCommerce
+ - Confidence: 0.124
+ - Support: 0.005
+ - LIft: 1.160
+
+Rule #305
+Rule:  Social, Photos  Other
+ - Confidence: 0.124
+ - Support: 0.004
+ - LIft: 2.872
+
+Rule #306
+Rule:  Social, Photos  Bookmarks
+ - Confidence: 0.124
+ - Support: 0.004
+ - LIft: 5.346
+
+Rule #307
+Rule:  Mapping  Social
+ - Confidence: 0.123
+ - Support: 0.052
+ - LIft: 0.607
+
+Rule #308
+Rule:  Other  Search
+ - Confidence: 0.120
+ - Support: 0.005
+ - LIft: 1.038
+
+Rule #309
+Rule:  Social, Photos  eCommerce
+ - Confidence: 0.118
+ - Support: 0.004
+ - LIft: 1.104
+
+Rule #310
+Rule:  Mapping, Video  Advertising
+ - Confidence: 0.116
+ - Support: 0.003
+ - LIft: 4.873
+
+Rule #311
+Rule:  Mapping, Search  Reference
+ - Confidence: 0.113
+ - Support: 0.003
+ - LIft: 2.678
+
+Rule #312
+Rule:  Mapping, Video  Music
+ - Confidence: 0.110
+ - Support: 0.003
+ - LIft: 2.056
+
+Rule #313
+Rule:  Music  Search
+ - Confidence: 0.107
+ - Support: 0.006
+ - LIft: 0.924
+
+Rule #314
+
